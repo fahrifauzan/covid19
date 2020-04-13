@@ -134,9 +134,9 @@ a.white {
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #00c9db;
+	border: 0.125rem solid #7BE495;
 	border-radius: 2rem;
-	background-color: #00c9db;
+	background-color: #7BE495;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -145,7 +145,7 @@ a.white {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #00c9db;
+	color: #7BE495;
 	text-decoration: none;
 }
 
@@ -386,7 +386,7 @@ input[type='checkbox'] {
 
 .form-control-submit-button:hover {
 	background-color: transparent;
-	color: #00c9db;
+	color: #7BE495;
 }
 
 /* Form Success And Error Message Formatting */
@@ -1181,7 +1181,7 @@ input[type='checkbox'] {
 	margin-bottom: 1.125rem;
 	margin-left: 0;
 	border: 0;
-	background-color: #00c9db;
+	background-color: #7BE495;
 	text-align: left;
 }
 
@@ -1202,7 +1202,7 @@ input[type='checkbox'] {
 .lightbox-basic table .icon-cell {
 	width: 2rem;
 	padding-right: 0.25rem;
-	color: #00c9db;
+	color: #7BE495;
 	text-align: center;
 }
 
@@ -1211,7 +1211,7 @@ input[type='checkbox'] {
 	width: auto;
 	height: auto;
 	margin-left: 0.375rem;
-	color: #00c9db;
+	color: #7BE495;
 	opacity: 1;
 }
 
