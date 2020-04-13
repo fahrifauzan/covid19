@@ -152,9 +152,9 @@ a.white {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #00c9db;
+	border: 0.125rem solid #7BE495;
 	border-radius: 2rem;
-	background-color: #00c9db;
+	background-color: #7BE495;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -163,7 +163,7 @@ a.white {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #00c9db;
+	color: #7BE495;
 	text-decoration: none;
 }
 
@@ -181,17 +181,17 @@ a.white {
 .btn-outline-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #00c9db;
+	border: 0.125rem solid #7BE495;
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #00c9db;
+	color: #7BE495;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
 
 .btn-outline-reg:hover {
-	background-color: #00c9db;
+	background-color: #7BE495;
 	color: #fff;
 	text-decoration: none;
 }
@@ -199,17 +199,17 @@ a.white {
 .btn-outline-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #00c9db;
+	border: 0.125rem solid #7BE495;
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #00c9db;
+	color: #7BE495;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
 
 .btn-outline-lg:hover {
-	background-color: #00c9db;
+	background-color: #7BE495;
 	color: #fff;
 	text-decoration: none;
 }
@@ -217,17 +217,17 @@ a.white {
 .btn-outline-sm {
 	display: inline-block;
 	padding: 1rem 1.625rem 0.875rem 1.625rem;
-	border: 0.125rem solid #00c9db;
+	border: 0.125rem solid #7BE495;
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #00c9db;
+	color: #7BE495;
 	font: 700 0.625rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
 
 .btn-outline-sm:hover {
-	background-color: #00c9db;
+	background-color: #7BE495;
 	color: #fff;
 	text-decoration: none;
 }
@@ -375,9 +375,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.125rem;
-	border: 1px solid #00c9db;
+	border: 1px solid #7BE495;
 	border-radius: 1.5rem;
-	background-color: #00c9db;
+	background-color: #7BE495;
 	color: #fff;
 	font: 700 0.75rem/1.75rem "Montserrat", sans-serif;
 	cursor: pointer;
@@ -638,7 +638,7 @@ input[type='checkbox'] {
 /*     03. Navigation     */
 /**************************/
 .navbar-custom {
-	background-color: #4633af;
+	background-color: #6e59e2;
 	box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
 	font: 700 0.75rem/2rem "Montserrat", sans-serif;
 	transition: all 0.2s ease;
@@ -671,7 +671,7 @@ input[type='checkbox'] {
 
 .navbar-custom .nav-item .nav-link:hover,
 .navbar-custom .nav-item .nav-link.active {
-	color: #00c9db;
+	color: #7BE495;
 }
 
 /* Dropdown Menu */
@@ -699,7 +699,7 @@ input[type='checkbox'] {
 	margin-top: 0;
 	border: none;
 	border-radius: 0.25rem;
-	background-color: #4633af;
+	background-color: #7361db;
 }
 
 .navbar-custom .dropdown-item {
@@ -716,7 +716,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item:hover .item-text {
-	color: #00c9db;
+	color: #7BE495;
 }
 
 .navbar-custom .dropdown-items-divide-hr {
@@ -894,9 +894,9 @@ input[type='checkbox'] {
 
 .tabs .nav-link.active,
 .tabs .nav-link:hover {
-	border-bottom: 0.1875rem solid #00c9db;
+	border-bottom: 0.1875rem solid #7BE495;
 	background-color: transparent;
-	color: #00c9db;
+	color: #7BE495;
 }
 
 .tabs .nav-link .fas {
@@ -926,7 +926,7 @@ input[type='checkbox'] {
 	width: 3.5rem;
 	height: 3.5rem;
 	border-radius: 50%;
-	background-color: #00c9db;
+	background-color: rgb(90, 211, 120);
 	text-align: center;
 	vertical-align: top;
 }
@@ -1573,7 +1573,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom .nav-item .nav-link:hover,
 	.navbar-custom .nav-item .nav-link.active {
-		color: #00c9db;
+		color: rgb(147, 241, 171);
 	}
 
 	.navbar-custom.top-nav-collapse {
@@ -1592,7 +1592,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
 	.navbar-custom.top-nav-collapse .nav-item .nav-link.active {
-		color: #00c9db;
+		color: rgb(147, 241, 171);
 	}
 
 	.navbar-custom .dropdown-menu {
@@ -2101,3 +2101,6 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width width 1200px */
+.ijo{
+	color: rgb(147, 241, 171);
+}
